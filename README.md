@@ -1,1 +1,1 @@
-This is an trial for git 
+This is a trial for git 
